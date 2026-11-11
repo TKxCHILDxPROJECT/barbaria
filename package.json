@@ -1,0 +1,17 @@
+
+{
+  "name": "barbearianode",
+  "version": "1.0.0",
+  "description": "API de agendamentos da barbearia",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "type": "commonjs"
+}
